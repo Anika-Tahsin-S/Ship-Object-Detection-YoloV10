@@ -19,8 +19,3 @@ This repository contains the implementation of a ship detection project using th
   - OpenCV
   - YOLO libraries
   - Pandas, NumPy, Matplotlib
-  - Any other libraries mentioned in the `requirements.txt`
-
-Install dependencies with:
-```bash
-pip install -r requirements.txt
